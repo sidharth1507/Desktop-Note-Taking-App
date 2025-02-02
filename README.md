@@ -32,3 +32,4 @@ $ yarn build:mac
 # For Linux
 $ yarn build:linux
 ```
+# Desktop-Note-Taking-App
